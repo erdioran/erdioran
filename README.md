@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋, I'am Erdi Oran
 
-<!--
-**erdioran/erdioran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Test Automation Engineer**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Appium, Selenium, Rest API, Jenkins, Git, Postman
+
+📫 How to reach me: erdioran@gmail.com
+
+
+[<img src="https://user-images.githubusercontent.com/38845669/158032860-21198b6d-05a4-4015-a1f5-c818b36ae792.png" width="50" height="50">](https://www.linkedin.com/in/erdioran/)
+[<img src="https://user-images.githubusercontent.com/38845669/158032853-bd94ea8b-7262-48e5-8fc9-973592a74eee.png" width="50" height="50">](https://github.com/erdioran)
+
+
+![Erdi Oran's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdioran&count_private=true)
+
+![](https://komarev.com/ghpvc/?username=erdioran&color=green)
+
