@@ -3,7 +3,7 @@
 **Test Automation Engineer**
 
 
-Skills: Appium, Selenium, Rest API, Jenkins, Git, Postman, Rest Assured
+Skills: Appium, Selenium, Rest API, Jenkins, Git, Postman,TestNG, JUnit , Rest Assured, Cucumber BDD
 
 📫 How to reach me: erdioran@gmail.com
 
